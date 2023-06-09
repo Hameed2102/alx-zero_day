@@ -1,1 +1,1 @@
-My first readme
+Hameed Alabi is a software Engineer
